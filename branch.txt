@@ -1,1 +1,1 @@
-develop master
+develop master develop
